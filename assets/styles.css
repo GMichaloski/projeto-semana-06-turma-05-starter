@@ -208,6 +208,21 @@ body {
   top: 64px;
 }
 
+.leaf-button {
+  width: 150px;
+  height: 24px;
+  top: 4px;
+  padding: 44px 0px 0px 0px;
+
+  line-height: 26px;
+  font-size: 16px;
+  border: 2px solid #111b47;
+  border-radius: 2px;
+  min-width: 189px;
+  background-color: #111b47;
+  color: white;
+}
+
 .title-text {
   font-family: Roboto;
   font-size: 36px;
