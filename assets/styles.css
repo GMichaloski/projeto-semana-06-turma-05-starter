@@ -208,6 +208,7 @@ body {
   top: 64px;
 }
 
+<<<<<<< HEAD
 .leaf-button {
   width: 150px;
   height: 24px;
@@ -223,6 +224,8 @@ body {
   color: white;
 }
 
+=======
+>>>>>>> ada5e292a74dafe7b6eaa72efb3284b571aa8812
 .title-text {
   font-family: Roboto;
   font-size: 36px;
